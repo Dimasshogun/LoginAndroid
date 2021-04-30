@@ -81,4 +81,10 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="296dp"
         android:text="Login"/>
+
+    <Button
+        android:id="@+id/backlogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back" />
 </RelativeLayout>
